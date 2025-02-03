@@ -14,8 +14,7 @@ let {
 </label>
 
 <style>
-.range::-webkit-slider-thumb,
-.range::-moz-range-thumb {
+.range::-webkit-slider-thumb {
   /* the range-xs class styles are not adjusting the sizes properly */
   height: 1rem;
   width: 1rem;
