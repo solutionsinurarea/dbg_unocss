@@ -1,0 +1,6 @@
+:root {
+  --rounded-box: 1rem;
+  --rounded-btn: 0.5rem;
+  --animation-btn: 0.25s;
+  --animation-input: 0.2s;
+}

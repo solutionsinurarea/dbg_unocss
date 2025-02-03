@@ -1,0 +1,23 @@
+{
+	"name": "dbg_unocss",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build"
+	},
+	"devDependencies": {
+		"@ameinhardt/unocss-preset-daisy": "^1.1.5",
+		"@sveltejs/vite-plugin-svelte": "^5.0.3",
+		"@tsconfig/svelte": "^5.0.4",
+		"@unocss/extractor-svelte": "^65.4.3",
+		"@unocss/reset": "^65.4.3",
+		"daisyui": "^4.12.23",
+		"svelte": "^5.15.0",
+		"svelte-preprocess": "^6.0.3",
+		"typescript": "~5.6.2",
+		"unocss": "^65.4.3",
+		"vite": "^6.0.5"
+	}
+}
